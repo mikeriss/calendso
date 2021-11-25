@@ -33,7 +33,7 @@
   <a href="https://cal.crowdin.com/Cal"><img src="https://badges.crowdin.net/e/5a55420475b48696779e30e0208a1899/localized.svg" alt="Translate Slack"></a>
 </p>
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT you asshole -->
 
 ## About The Project
 
